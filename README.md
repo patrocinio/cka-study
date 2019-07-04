@@ -19,6 +19,6 @@ Great hands-on tutorials:
 
 https://www.katacoda.com/courses/kubernetes
 
-4. Kodecloud
+4. Kodekloud
 
 https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
