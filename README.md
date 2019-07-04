@@ -12,3 +12,13 @@ https://learning.oreilly.com/videos/kubernetes-on-the/9781789531565/978178953156
 Some links don't work, but still vry good:
 
 https://github.com/walidshaari/Kubernetes-Certified-Administrator
+
+3. Katakoda tutorial
+
+Great hands-on tutorials:
+
+https://www.katacoda.com/courses/kubernetes
+
+4. Kodecloud
+
+https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests
