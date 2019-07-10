@@ -21,4 +21,4 @@ https://www.katacoda.com/courses/kubernetes
 
 4. Great spreadsheet
 
-https://github.com/patrocinio/cka-study.git
+https://goo.gl/Rywkpd
